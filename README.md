@@ -1,2 +1,2 @@
 # docplanner
-docplanner project
+docplanner project.
